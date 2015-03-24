@@ -1,0 +1,333 @@
+# depslib dependency file v1.0
+1386533221 source:d:\egyetem\programozas\nagyhazi\jatek.c
+	<SDL.h>
+	<SDL_gfxPrimitives.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<time.h>
+	"menu.h"
+	"jatek.h"
+
+1350222388 d:\program files\codeblocks\mingw\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350222394 d:\program files\codeblocks\mingw\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350222396 d:\program files\codeblocks\mingw\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1350222390 d:\program files\codeblocks\mingw\include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1350222396 d:\program files\codeblocks\mingw\include\sdl_platform.h
+
+1341006780 d:\program files\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 d:\program files\codeblocks\mingw\include\_mingw.h
+
+1341006776 d:\program files\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341006776 d:\program files\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006774 d:\program files\codeblocks\mingw\include\malloc.h
+	<_mingw.h>
+	<stdlib.h>
+
+1341006774 d:\program files\codeblocks\mingw\include\memory.h
+	<string.h>
+
+1341006776 d:\program files\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006776 d:\program files\codeblocks\mingw\include\strings.h
+	<string.h>
+
+1341006772 d:\program files\codeblocks\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1341006776 d:\program files\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1341006770 d:\program files\codeblocks\mingw\include\ctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1350222388 d:\program files\codeblocks\mingw\include\begin_code.h
+
+1350222388 d:\program files\codeblocks\mingw\include\close_code.h
+
+1350222390 d:\program files\codeblocks\mingw\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350222392 d:\program files\codeblocks\mingw\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350222392 d:\program files\codeblocks\mingw\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350222394 d:\program files\codeblocks\mingw\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350222396 d:\program files\codeblocks\mingw\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1341006774 d:\program files\codeblocks\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1350222396 d:\program files\codeblocks\mingw\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350222390 d:\program files\codeblocks\mingw\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350222392 d:\program files\codeblocks\mingw\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350222392 d:\program files\codeblocks\mingw\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350222388 d:\program files\codeblocks\mingw\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350222394 d:\program files\codeblocks\mingw\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350222394 d:\program files\codeblocks\mingw\include\sdl_keysym.h
+
+1350222394 d:\program files\codeblocks\mingw\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350222398 d:\program files\codeblocks\mingw\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350222392 d:\program files\codeblocks\mingw\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350222396 d:\program files\codeblocks\mingw\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1350222394 d:\program files\codeblocks\mingw\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350222398 d:\program files\codeblocks\mingw\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350222398 d:\program files\codeblocks\mingw\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1336974206 d:\program files\codeblocks\mingw\include\sdl_gfxprimitives.h
+	<math.h>
+	"SDL.h"
+
+1341006774 d:\program files\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1325793180 d:\program files\codeblocks\mingw\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1384244892 d:\program files\codeblocks\mingw\include\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_byteorder.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1350222398 d:\program files\codeblocks\mingw\include\sdl_types.h
+	"SDL_stdinc.h"
+
+1350222390 d:\program files\codeblocks\mingw\include\sdl_byteorder.h
+	"SDL_endian.h"
+
+1341006776 d:\program files\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1386533259 d:\egyetem\programozas\nagyhazi\menu.h
+
+1386533258 d:\egyetem\programozas\nagyhazi\jatek.h
+
+1386564888 source:d:\egyetem\programozas\nagyhazi\menu.c
+	<SDL.h>
+	<SDL_gfxPrimitives.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"menu.h"
+	"jatek.h"
+
+1386760191 source:d:\egyetem\programozas\nagyhazi\main.c
+	<SDL.h>
+	<SDL_gfxPrimitives.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"jatek.h"
+
+1325788800 d:\program files\codeblocks\mingw\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1386533221 source:d:\egyetem\1.félév\programozas\nagyhazi\jatek.c
+	<SDL.h>
+	<SDL_gfxPrimitives.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<time.h>
+	"menu.h"
+	"jatek.h"
+
+1386533259 d:\egyetem\1.félév\programozas\nagyhazi\menu.h
+
+1386533258 d:\egyetem\1.félév\programozas\nagyhazi\jatek.h
+
+1421696835 source:d:\egyetem\1.félév\programozas\nagyhazi\main.c
+	<SDL.h>
+	<SDL_gfxPrimitives.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"jatek.h"
+
+1386564888 source:d:\egyetem\1.félév\programozas\nagyhazi\menu.c
+	<SDL.h>
+	<SDL_gfxPrimitives.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"menu.h"
+	"jatek.h"
+
